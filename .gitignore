@@ -19,3 +19,6 @@ pointer-6.o
 pointer-5.exe
 pointer swap with function.exe
 pointer swap with function.o
+pointer array.exe
+pointer array.o
+.vscode/tasks.json
