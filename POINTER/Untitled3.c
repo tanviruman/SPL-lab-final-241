@@ -12,7 +12,8 @@ int main() {
         scanf("%d", &arr[i]);
     }
 
-    int *ptr = &arr + n - 1;
+    int *ptr =
+    arr + n - 1;
 
     printf("Array elements in reverse order: ");
     for (int i = 0; i < n; i++) {
